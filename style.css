@@ -167,7 +167,7 @@ html,body {
 }
 
 .chat .content .content-form ul li a{
-    color: #999;
+    color: rgb(255, 255, 255);
     width: 36px;
     display: block;
     height: 36px;
@@ -177,3 +177,18 @@ html,body {
     text-align: center;
 }
 
+.chat .content .content-form ul li.laugh-btn a{
+    background-color: #0083ff;
+}
+
+.chat .content .content-form ul li.laugh-btn a{
+    background-color: #0083ff;
+}
+
+.chat .content .content-form ul li.mic-btn a{
+    background-color: green;
+}
+
+.chat .content .content-form ul li.img-btn a{
+    background-color: red;
+}
